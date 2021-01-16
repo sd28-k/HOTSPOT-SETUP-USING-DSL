@@ -4,12 +4,19 @@ The design is a basic one and real implementation will experience some alternati
 
 
 HARDWARE REQUIREMENTS:
-1.Servers
-2.Switches
-3.Router
-4.Cloud Setup
+
+1.Servers = 2
+
+2.Switches = 2 (or as per requirements)
+
+3.Router = 1
+
+4.Cloud Setup = 2
+
 5.Modems = DSL and Cable(optional)
+
 6.Coaxial Splitters
+
 7.Endpoint Devices = Smart phones,laptops,PC and TV
 
 SOFTWARE REQUIREMENT:
